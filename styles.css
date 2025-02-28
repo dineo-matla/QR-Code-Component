@@ -12,6 +12,13 @@ body {
   border-radius: 12px;
 }
 
+.qr-code {
+  max-width: 280px;
+  border-radius: 15px;
+  padding: 0 5px;
+  margin: 6px 0;
+}
+
 h2 {
   color: hsl(218, 44%, 22%);
   text-align: center;
@@ -21,4 +28,5 @@ p {
   color: hsl(216, 15%, 48%);
   font-size: 15px;
   text-align: center;
+  line-height: 1.5;
 }
