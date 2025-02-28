@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
   - [Links](#links)
   - [Built with](#built-with)
-
+  - [Continued Development](#continued-development)
 
 
 ### Links
@@ -17,7 +17,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS
+- Flexbox
+
+### Continued Development
+
+On continuing development, I'd like to be able to use better CSS practices, understand how file paths work, and also learn the workflow of Github going forward.
 
 
 
