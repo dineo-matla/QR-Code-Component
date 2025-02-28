@@ -1,12 +1,37 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
 body {
   font-family: "Outfit", serif;
   background-color: hsl(212, 45%, 89%);
+  height: 100vh;
+  width: 100%;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.7rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .container {
-  max-width: 300px;
+  /*max-width: 300px;
   background-color: #fff;
   display: block;
+  margin: 160px auto;
+  padding: 15px;
+  border-radius: 12px;*/
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #fff;
+  max-width: 300px;
   margin: 160px auto;
   padding: 15px;
   border-radius: 12px;
@@ -15,8 +40,8 @@ body {
 .qr-code {
   max-width: 280px;
   border-radius: 15px;
-  padding: 0 5px;
-  margin: 6px 0;
+  padding: 0;
+  margin: 3px 0;
 }
 
 h2 {
@@ -27,6 +52,21 @@ h2 {
 p {
   color: hsl(216, 15%, 48%);
   font-size: 15px;
-  text-align: center;
-  line-height: 1.5;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  line-height: 1.4rem;
+}
+
+.credit {
+  color: hsl(218, 44%, 22%);
+}
+
+.credit a {
+  color: hsl(216, 15%, 48%);
+
+  text-decoration: none;
+}
+
+.credit a:hover {
+  color: hsl(216, 15%, 48%);
 }
