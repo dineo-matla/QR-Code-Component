@@ -10,7 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-using-css-custom-properties-n4dAUE9_FJ)
 - Live Site URL: [Add live site URL here](https://matrix-codes-component.netlify.app/)
 
 
