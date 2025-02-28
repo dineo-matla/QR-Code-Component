@@ -1,0 +1,13 @@
+body {
+  font-family: "Outfit", serif;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+  max-width: 400px;
+  background-color: #fff;
+  display: block;
+  margin: 20px auto;
+  padding: 15px;
+  border-radius: 12px;
+}
